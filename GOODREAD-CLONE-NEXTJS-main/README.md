@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="images/logoFull.png" alt="Logo">
-</p>
-
-<p align="center">
-  <a href="https://greattreads.netlify.app/">Check out the live site!</a>
-</p>
 
 # GreatReads - A Goodreads Clone
 
